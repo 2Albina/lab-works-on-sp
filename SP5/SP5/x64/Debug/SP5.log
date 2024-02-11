@@ -1,0 +1,10 @@
+﻿  SP5.cpp
+D:\Programming\5 cеместр\SP\SP5\SP5\SP5.cpp(154,1): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Programming\5 cеместр\SP\SP5\SP5\SP5.cpp(157,1): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Programming\5 cеместр\SP\SP5\SP5\SP5.cpp(160,1): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Programming\5 cеместр\SP\SP5\SP5\SP5.cpp(163,1): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Programming\5 cеместр\SP\SP5\SP5\SP5.cpp(166,1): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Programming\5 cеместр\SP\SP5\SP5\SP5.cpp(168,1): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Programming\5 cеместр\SP\SP5\SP5\SP5.cpp(170,1): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\Programming\5 cеместр\SP\SP5\SP5\SP5.cpp(434,18): warning C4101: hp: неиспользованная локальная переменная
+  SP5.vcxproj -> D:\Programming\5 cеместр\SP\SP5\x64\Debug\SP5.exe
