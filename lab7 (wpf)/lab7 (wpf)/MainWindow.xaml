@@ -1,0 +1,27 @@
+﻿<Window x:Class="lab7__wpf_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab7__wpf_"
+        mc:Ignorable="d"
+        Title="ЛР № 7. WPF-приложение" Height="350" Width="500" Icon="/ikonka.png">
+    <Window.Background>
+        <ImageBrush ImageSource="/pic.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/1614334889_43-p-fon-raznotsvetnogo-kosmosa-49.jpg"/>
+        </Grid.Background>
+        <Menu Background="#FF050303" BorderBrush="#FF080303" RenderTransformOrigin="0.502,0.795" Margin="0,0,0,297" VerticalAlignment="Top">
+            <MenuItem Header="Файл" Background="#FF010E1D" Foreground="White" BorderBrush="#FF0E0808" Width="56" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0,0,0,0" FontWeight="DemiBold">
+                <MenuItem Header="Закрыть" Background="#FF6CCDF3" Foreground="#FF043641" BorderBrush="#FF0E0808" FontWeight="DemiBold" Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Задание" Background="#FF010E1D" Foreground="White" BorderBrush="#FF0E0404" Width="56" FontWeight="DemiBold" Click="Task_Click"/>
+            <MenuItem Header="Помощь" Background="#FF010E1D" Foreground="White" BorderBrush="#FF090101" Width="56" FontWeight="DemiBold">
+                <MenuItem Header="О программе" Background="#FF010E1D" Foreground="White" BorderBrush="#FF090101" FontWeight="DemiBold" Click="About_Click"/>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

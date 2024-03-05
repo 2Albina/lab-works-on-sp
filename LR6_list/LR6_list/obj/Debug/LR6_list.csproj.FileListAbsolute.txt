@@ -1,0 +1,14 @@
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\bin\Debug\LR6_list.exe.config
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\bin\Debug\LR6_list.exe
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\bin\Debug\LR6_list.pdb
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.csproj.AssemblyReference.cache
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.csproj.SuggestedBindingRedirects.cache
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.Form1.resources
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.Properties.Resources.resources
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.csproj.GenerateResource.cache
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.csproj.CoreCompileInputs.cache
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.exe
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.pdb
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.List.resources
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.Task.resources
+D:\Programming\5 cеместр\пи\LR6_list\LR6_list\obj\Debug\LR6_list.change.resources

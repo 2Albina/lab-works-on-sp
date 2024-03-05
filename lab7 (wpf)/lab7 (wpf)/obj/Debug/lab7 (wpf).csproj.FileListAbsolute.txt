@@ -1,0 +1,48 @@
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\bin\Debug\lab7 (wpf).exe.config
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\bin\Debug\lab7 (wpf).exe
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\bin\Debug\lab7 (wpf).pdb
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).csproj.AssemblyReference.cache
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).csproj.SuggestedBindingRedirects.cache
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\MainWindow.g.cs
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\App.g.cs
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf)_MarkupCompile.cache
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf)_MarkupCompile.lref
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\MainWindow.baml
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).g.resources
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7__wpf_.Properties.Resources.resources
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).csproj.GenerateResource.cache
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).csproj.CoreCompileInputs.cache
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).exe
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).pdb
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\About.g.cs
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\Input.g.cs
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\About.baml
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\Input.baml
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\Edit.g.cs
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\Result.g.cs
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\Edit.baml
+D:\ПИ\Лабы\lab7 (wpf)\lab7 (wpf)\obj\Debug\Result.baml
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\bin\Debug\lab7 (wpf).exe.config
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\bin\Debug\lab7 (wpf).exe
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\bin\Debug\lab7 (wpf).pdb
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).csproj.AssemblyReference.cache
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).csproj.SuggestedBindingRedirects.cache
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\About.g.cs
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\Edit.g.cs
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\Input.g.cs
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\MainWindow.g.cs
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\Result.g.cs
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\App.g.cs
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf)_MarkupCompile.cache
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf)_MarkupCompile.lref
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\About.baml
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\Edit.baml
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\Input.baml
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\MainWindow.baml
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\Result.baml
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).g.resources
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7__wpf_.Properties.Resources.resources
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).csproj.GenerateResource.cache
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).csproj.CoreCompileInputs.cache
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).exe
+D:\Programming\5 cеместр\пи\lab7 (wpf)\lab7 (wpf)\obj\Debug\lab7 (wpf).pdb
